@@ -23,10 +23,11 @@ This repo contains tutorials in the field of SBSR (including datasets download a
 
 
 
-## tool
+## Tool
 - 3D shape rendering for multi-views SBSR [[Rendering]](https://github.com/twuilliam/shrec-sketches-helpers)
-- A lightweight framework for SBSR[[github]](https://github.com/garyzhao/Sketch3DToolkit)
-
+- A lightweight framework for SBSR[[Github]](https://github.com/garyzhao/Sketch3DToolkit)
+- Loss function for cross-modal [[Github]](https://github.com/zhongzhh8/Cross-Modal-Retrieval)
+- Dataset Processing(may helpful) [[Github]](https://github.com/2dshapesstructure/dataset-processing)
 ## Paper:
 ### SBSR
 
