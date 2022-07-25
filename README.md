@@ -3,7 +3,7 @@
 ![3D](https://img.shields.io/static/v1?label=<CV>&message=<Cross-Modal>&color=<green>)
 ![CrossModal](https://img.shields.io/static/v1?label=<CV>&message=<Cross-Modal>&color=<green>)  
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white#pic_center)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
