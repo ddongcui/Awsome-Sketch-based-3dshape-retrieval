@@ -24,6 +24,7 @@ This repo contains tutorials in the field of SBSR (including datasets download a
 
 
 ## tool
+- 3D shape rendering for multi-views SBSR [[Rendering]](https://github.com/twuilliam/shrec-sketches-helpers)
 
 
 ## Paper:
