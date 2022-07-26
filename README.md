@@ -20,8 +20,8 @@ This repo contains tutorials in the field of SBSR (including datasets download a
 
 
 ## Dataset：
--SHREC13 [[Google Drive]] [[BaiduDisk]](https://pan.baidu.com/s/1ItGoBa0dF_S5P40OAr3vQg?pwd=whj9)
--SHREC14 [[Google Drive]] [[BaiduDisk]](https://pan.baidu.com/s/1T3GhuE-ULOTh88_4ZGYLag?pwd=drwx)
+-SHREC13 [[Google Drive]](https://drive.google.com/file/d/12200PzpwRX0TIzD42IKRStneIvPbSzQo/view?usp=sharing) [[BaiduDisk]](https://pan.baidu.com/s/1ItGoBa0dF_S5P40OAr3vQg?pwd=whj9)
+-SHREC14 [[Google Drive]](https://drive.google.com/file/d/122MV25DQhCJeDCJdqm0scU1SaY_nGjSe/view?usp=sharing) [[BaiduDisk]](https://pan.baidu.com/s/1T3GhuE-ULOTh88_4ZGYLag?pwd=drwx)
 
 
 
