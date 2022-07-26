@@ -19,14 +19,14 @@ This repo contains tutorials in the field of SBSR (including datasets download a
 - [Papers](#Paper)
 
 
-## Dataset：
+## Dataset:
 -SHREC13 [[Google Drive]](https://drive.google.com/file/d/12200PzpwRX0TIzD42IKRStneIvPbSzQo/view?usp=sharing) [[BaiduDisk]](https://pan.baidu.com/s/1ItGoBa0dF_S5P40OAr3vQg?pwd=whj9)  
 
 -SHREC14 [[Google Drive]](https://drive.google.com/file/d/122MV25DQhCJeDCJdqm0scU1SaY_nGjSe/view?usp=sharing) [[BaiduDisk]](https://pan.baidu.com/s/1T3GhuE-ULOTh88_4ZGYLag?pwd=drwx)
 
 
 
-## Tool
+## Tool:
 - 3D shape rendering for multi-views SBSR [[Rendering]](https://github.com/twuilliam/shrec-sketches-helpers)
 - A lightweight framework for SBSR[[Github]](https://github.com/garyzhao/Sketch3DToolkit)
 - Loss function for cross-modal [[Github]](https://github.com/zhongzhh8/Cross-Modal-Retrieval)
